@@ -36,5 +36,9 @@ $ cd Pybank
 ### 👨🏽‍💻Pessoas Autoras
 [Marcio Melquiades](https://www.linkedin.com/in/marciomelquiades/)
 
+### Proximos passos
+- [ ] Extrato completo com data e hora
+- [ ] Função Consulta disponibilidade de empréstimo
+
 
 
